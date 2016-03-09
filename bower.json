@@ -2,7 +2,7 @@
   "name": "piRobot",
   "version": "0.0.1",
   "dependencies": {
-    "johnny-five": "*",
-    "pi-gpio": "~2.1.2"
+    "johnny-five": "https://github.com/rwaldron/johnny-five.git#^0.9.2",
+    "pi-gpio": "https://github.com/rakeshpai/pi-gpio.git"
   }
 }
