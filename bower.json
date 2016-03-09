@@ -1,0 +1,8 @@
+{
+  "name": "piRobot",
+  "version": "0.0.1",
+  "dependencies": {
+    "johnny-five": "*",
+    "pi-gpio": "~2.1.2"
+  }
+}
