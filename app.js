@@ -8,7 +8,7 @@ gpio.open(14, "output", function(error) {
         return;
     }
 
-    gpio.write(16, 1, function () {
-        gpio.close(16);
+    gpio.write(14, 1, function () {
+        gpio.close(14);
     });
 });
